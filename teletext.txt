@@ -1,0 +1,6 @@
+Type: GOOD
+Version: %version%
+HWID: %cpuhwid%
+Days Left: %days%days
+IP: %ip%
+https://steamcommunity.com/profiles/%value12%
